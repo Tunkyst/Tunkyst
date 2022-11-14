@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tunkyst
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and RPA
 - 🌱 I’m currently learning Python
 - 📫 How to reach me thamirestorquato0@gmail.com
 
