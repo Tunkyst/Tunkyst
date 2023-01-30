@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning Python, SQL and Data Science 
 - 📫 How to reach me thamirestorquato0@gmail.com
 
-<!---
-Tunkyst/Tunkyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![212444](https://user-images.githubusercontent.com/91813148/215581921-85f3462d-929b-4ce1-9607-7f8984230218.gif)
