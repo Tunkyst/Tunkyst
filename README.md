@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tunkyst
-- 👀 I’m interested in Machine Learning and RPA
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in ML, RPA and everything about Data
+- 🌱 I’m currently learning Python, SQL and Data Science 
 - 📫 How to reach me thamirestorquato0@gmail.com
 
 <!---
