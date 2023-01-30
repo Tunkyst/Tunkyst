@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tunkyst
+- 👋 Hi, I’m @Tunkyst, welcome to my Hello World!!
 - 👀 I’m interested in ML, RPA and everything about Data
 - 🌱 I’m currently learning Python, SQL and Data Science 
 - 📫 How to reach me thamirestorquato0@gmail.com
